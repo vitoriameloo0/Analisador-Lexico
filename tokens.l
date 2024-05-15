@@ -322,13 +322,7 @@ ERROID2         (LETRA)*(SIMBOLOS)(LETRA)+
             }
 %%
 
-void welcome (){
-    printf("\nANALISADOR LEXICO\n");
-    printf("LINGUAGEM C--\n");
-    printf("\nDesenvolvido por: \n");
-    printf("        Matheus Prokopowiski dos Santos\n");
-    printf("        Vitoria Conceicao Melo\n");
-}
+
 
 int yywrap(){
     return 1;
@@ -337,7 +331,6 @@ int yywrap(){
 int main(int argc, char *argv[]) {
     tabela_reservada = criarTabelaHash();     // tabela que sera guardada os tokens que sao reservada na linguagem
     tabela_simbolos = criarTabelaHash();      // tabela que sera guardada os simbolos presentes no arquivo de entrada
-    welcome();
 
     char str[100];                            //string para ler o nome do arquivo
     printf("\nEntre com o arquivo.txt\n");
