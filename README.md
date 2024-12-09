@@ -25,8 +25,17 @@ As ferramentas utilizadas para desenvolver o projeto:
 * [Flex](https://sourceforge.net/projects/gnuwin32/files/flex/2.5.4a-1/)  
 * [Bison](https://sourceforge.net/projects/gnuwin32/files/bison/2.4.1/) 
 
+## ⚙️ Como executar
+- Abra um prompt de comando ou no terminal do VSCode
+- Esteja na pasta do arquivos do projeto
+- Execute os seguintes comandos:
+  - lex tokens.l
+  - gcc *.c
+  - a.exe
+- Após isso é só escrever o nome do arquivo de entrada
 
-## ✒️ Autor
+
+## ✒️ Autores
 Feito com ❤️ por Vitória Melo
 
 
