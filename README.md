@@ -28,4 +28,6 @@ As ferramentas utilizadas para desenvolver o projeto:
 
 ## ✒️ Autor
 Feito com ❤️ por Vitória Melo
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-Vitória-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitoriacmelo/)](https://www.linkedin.com/in/vitoriacmelo/) 
