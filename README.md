@@ -35,10 +35,16 @@ As ferramentas utilizadas para desenvolver o projeto:
 - Após isso é só escrever o nome do arquivo de entrada
 
 
+## Colaborador
+
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/80923400?v=4" width=115><br><sub> Matheus Prokopowiski </sub>](https://github.com/prokow) |
+| :---: |
+
 ## ✒️ Autores
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/95388328?v=4" width=115><br><sub>Vitória Melo </sub>](https://github.com/vitoriameloo0) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/80923400?v=4" width=115><br><sub> Matheus Prokopowiski </sub>](https://github.com/prokow) 
-| :---: | :---: |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/95388328?v=4" width=115><br><sub>Vitória Melo </sub>](https://github.com/vitoriameloo0) |  
+| :---: | 
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vitória-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitoriacmelo/)](https://www.linkedin.com/in/vitoriacmelo/) 
 
